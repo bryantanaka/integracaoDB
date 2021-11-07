@@ -527,26 +527,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bryan\\.nuget\\packages\\": {}
+    "/home/leandro-parisi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\bryan\\Documents\\GitHub\\Bosch\\C Sharp\\Aula 5\\ARMAZENAMENTO\\ARMAZENAMENTO.csproj",
+      "projectUniqueName": "/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/ARMAZENAMENTO.csproj",
       "projectName": "ARMAZENAMENTO",
-      "projectPath": "c:\\Users\\bryan\\Documents\\GitHub\\Bosch\\C Sharp\\Aula 5\\ARMAZENAMENTO\\ARMAZENAMENTO.csproj",
-      "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\bryan\\Documents\\GitHub\\Bosch\\C Sharp\\Aula 5\\ARMAZENAMENTO\\obj\\",
+      "projectPath": "/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/ARMAZENAMENTO.csproj",
+      "packagesPath": "/home/leandro-parisi/.nuget/packages/",
+      "outputPath": "/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/leandro-parisi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -585,7 +583,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
