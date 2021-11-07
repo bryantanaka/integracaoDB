@@ -1,23 +1,46 @@
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\ARMAZENAMENTO.exe
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\ARMAZENAMENTO.deps.json
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\ARMAZENAMENTO.runtimeconfig.json
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\ARMAZENAMENTO.runtimeconfig.dev.json
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\ARMAZENAMENTO.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\ref\ARMAZENAMENTO.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\ARMAZENAMENTO.pdb
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ARMAZENAMENTO.csproj.AssemblyReference.cache
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ARMAZENAMENTO.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ARMAZENAMENTO.AssemblyInfoInputs.cache
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ARMAZENAMENTO.AssemblyInfo.cs
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ARMAZENAMENTO.csproj.CoreCompileInputs.cache
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ARMAZENAMENTO.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ref\ARMAZENAMENTO.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ARMAZENAMENTO.pdb
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ARMAZENAMENTO.genruntimeconfig.cache
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\System.Data.SqlClient.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\bryan\Documents\GitHub\Bosch\C Sharp\Aula 5\ARMAZENAMENTO\obj\Debug\net5.0\ARMAZENAMENTO.csproj.CopyComplete
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.exe
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.deps.json
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.runtimeconfig.json
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.runtimeconfig.dev.json
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/ref/ARMAZENAMENTO.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.pdb
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.csproj.AssemblyReference.cache
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.AssemblyInfoInputs.cache
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.AssemblyInfo.cs
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.csproj.CoreCompileInputs.cache
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ref/ARMAZENAMENTO.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.pdb
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.genruntimeconfig.cache
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/System.Data.SqlClient.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bryan/Documents/GitHub/Bosch/C Sharp/Aula 5/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.csproj.CopyComplete
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.csproj.AssemblyReference.cache
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.GeneratedMSBuildEditorConfig.editorconfig
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.AssemblyInfoInputs.cache
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.AssemblyInfo.cs
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.csproj.CoreCompileInputs.cache
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ref/ARMAZENAMENTO.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.pdb
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.deps.json
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.runtimeconfig.json
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.runtimeconfig.dev.json
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/ref/ARMAZENAMENTO.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/ARMAZENAMENTO.pdb
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/System.Data.SqlClient.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.csproj.CopyComplete
+/media/leandro-parisi/HD Secundário1/HD Secundário/6. Programação/0.2_Cursos/2.PDI_Politecnica/C#/aula_4/integracaoDB/ARMAZENAMENTO/obj/Debug/net5.0/ARMAZENAMENTO.genruntimeconfig.cache
