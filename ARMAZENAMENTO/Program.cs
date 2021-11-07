@@ -60,9 +60,7 @@ namespace ARMAZENAMENTO
 
                     insertTel.ExecuteNonQuery();
                     System.Console.WriteLine("Aluno criado!");
-
                 } else {
-                    
                     string queryStringTelefone = "select * from Telefone where codAluno=@cod";
                     SqlCommand comandoTelfone = new SqlCommand(queryStringTelefone, connection);
                     comandoTelfone.Parameters.Add(new SqlParameter("@cod",idAluno));
